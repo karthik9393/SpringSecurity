@@ -11,7 +11,7 @@ import com.codewithkarthik.dao.UserRepository;
 import com.codewithkarthik.entity.User;
 
 import java.util.List;
-
+//Spring MVC controller
 @Controller
 public class AppController {
 	@Autowired
